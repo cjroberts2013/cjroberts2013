@@ -5,6 +5,5 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on a MERN stack fitness tracker that is similar to Strava
-- 🌱 I’m currently learning Python
+- 🔭 I’m a full stack developer with a focus on iOS development.
 - 📫 How to reach me: @cjrobertstech of Twitter
