@@ -5,5 +5,5 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m a full stack developer with a focus on iOS development.
+- 🔭 I’m a software engineer with a focus on iOS development.
 - 📫 How to reach me: @cjrobertstech of Twitter
