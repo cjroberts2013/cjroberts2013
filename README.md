@@ -6,4 +6,4 @@
 Here are some ideas to get you started:
 -->
 - 🔭 I’m a software engineer with a focus on iOS development.
-- 📫 How to reach me: @cjrobertstech of Twitter
+- 📫 How to reach me: cjroberts2013@gmail.com
